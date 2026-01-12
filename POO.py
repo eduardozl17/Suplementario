@@ -41,4 +41,4 @@ empleados = [
 
 for empleado in empleados:
     print(f"{empleado.nombre} gana ${empleado.calcular_salario()}")
-input("Presiona Enter para salir...")
+
